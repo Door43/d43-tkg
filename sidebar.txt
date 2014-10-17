@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tkg:home|Door43 (tkg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tkg|d43-tkg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tkg/archive/master.zip|d43-tkg.zip]]
+
+**Recent Changes**
+{{changes>ns = tkg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tkg|Ethnologue data]]
+
